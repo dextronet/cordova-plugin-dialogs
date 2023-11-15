@@ -1,0 +1,13 @@
+{
+  "name": "cordova-plugin-dialogs",
+  "version": "0.2.9",
+  "description": "Cordova Notification Plugin",
+  "cordova": {
+    "id": "cordova-plugin-dialogs",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": "github:dextronet/cordova-plugin-dialogs"
+}
